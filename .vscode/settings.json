@@ -52,5 +52,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Progetto_Jam_Smile.slnx"
+    "dotnet.defaultSolution": "Pro-Smile.slnx"
 }
